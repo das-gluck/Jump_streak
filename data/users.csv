@@ -1,0 +1,16 @@
+user_id,name,signup_at,home_tz,plan,freeze_balance,streak_as_of_2026_10_31
+u01,Priya S,2026-10-20T09:00:00+05:30,Asia/Kolkata,free,0,0
+u02,Rahul M,2026-08-02T09:00:00+05:30,Asia/Kolkata,premium,1,41
+u03,Ananya K,2026-09-01T09:00:00+05:30,Asia/Kolkata,free,0,12
+u04,Vikram R,2026-09-15T09:00:00+05:30,Asia/Kolkata,free,0,20
+u05,Meera J,2026-10-01T09:00:00+05:30,Asia/Kolkata,free,0,6
+u06,Karthik N,2026-09-20T09:00:00+05:30,Asia/Kolkata,free,0,33
+u07,Sneha P,2026-07-10T09:00:00+05:30,Asia/Kolkata,premium,0,58
+u08,Arjun D,2025-12-01T09:00:00+05:30,Asia/Kolkata,premium,1,300
+u09,Divya T,2026-11-13T23:50:00+05:30,Asia/Kolkata,free,0,0
+u10,Rohan B,2026-10-05T09:00:00+05:30,Asia/Kolkata,free,0,9
+u11,Farah Q,2026-10-11T09:00:00+05:30,Asia/Kolkata,free,0,3
+u12,Imran H,2026-10-02T09:00:00+05:30,Asia/Kolkata,free,0,15
+u13,Nikhil V,2026-06-14T09:00:00+05:30,Asia/Kolkata,free,0,44
+u14,Tanvi R,2026-05-02T09:00:00+05:30,Asia/Kolkata,free,0,51
+u15,Ishaan G,2026-08-20T09:00:00-07:00,America/Los_Angeles,premium,1,17
